@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rn-focus-listener",
+    "slug": "rn-focus-listener",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
