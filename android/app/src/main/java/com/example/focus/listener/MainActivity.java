@@ -1,4 +1,4 @@
-package com.rnfocuslistener;
+package com.example.focus.listener;
 
 import android.os.Build;
 import android.os.Bundle;
